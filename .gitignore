@@ -167,7 +167,6 @@ tssss.py
 
 # Cython debug symbols
 cython_debug/
-.vscode/
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
@@ -179,3 +178,5 @@ cython_debug/
 test_case1.py
 alembic/versions
 tmp
+temp_auto_push.bat
+temp_interactive_push.bat
